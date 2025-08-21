@@ -12,9 +12,9 @@ Busco seguir aprendiendo, aplicando buenas prácticas, y siempre aportando valor
 ## Tecnologías 🛠️
 
 - <b>Lenguajes de programación:</b> Javascript/Typescript, HTML, CSS, Python 
-- <b>Front-end:</b> React, Next.js, Vue.js, Svelte, Webpack, Vite, Storybook  
-- <b>Back-end:</b> Node.js, Express, NestJS, Koa, Fastify, Deno, GraphQL (Apollo/Relay)  
-- <b>Databases:</b> SQL (PostgreSQL, MySQL, SQLite, MS SQL), NoSQL (MongoDB, DynamoDB, Couchbase, Cassandra), Graph Databases (Neo4j), Time-Series Databases (InfluxDB)  
+- <b>Front-end:</b> React, Next.js
+- <b>Back-end:</b> Node.js, Express, NestJS,
+- <b>Databases:</b> SQL (MySQL, SQLite, MS SQL), NoSQL (MongoDB), Graph Databases (Neo4j)
 - <b>Testing:</b> Postman
 - <b>Security:</b> JWT, OAuth2, SSO  
 - <b>Tools:</b> Tailwind CSS, Figma (for prototyping), WebSockets
