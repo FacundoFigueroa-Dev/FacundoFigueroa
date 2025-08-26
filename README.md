@@ -14,10 +14,10 @@ Busco seguir aprendiendo, aplicando buenas prácticas, y siempre aportando valor
 - <b>Lenguajes de programación:</b> Javascript/Typescript, HTML, CSS, Python 
 - <b>Front-end:</b> React, Next.js
 - <b>Back-end:</b> Node.js, Express, NestJS,
-- <b>Databases:</b> SQL (MySQL, SQLite, MS SQL), NoSQL (MongoDB), Graph Databases (Neo4j)
+- <b>Databases:</b> SQL (MySQL, SQLite), NoSQL (MongoDB), Graph Databases (Neo4j)
 - <b>Testing:</b> Postman
-- <b>Security:</b> JWT, OAuth2, SSO  
-- <b>Tools:</b> Tailwind CSS, Figma (for prototyping), WebSockets
+- <b>Security:</b> JWT, OAuth2
+- <b>Tools:</b> Tailwind CSS, Figma, WebSockets
 
 ## Contacto 📬
 Contactame en [LinkedIn](https://www.linkedin.com/in/facundo-figueroa30/) o por email facundofigueroa65@gmail.com
